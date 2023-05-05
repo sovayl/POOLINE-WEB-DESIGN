@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+html{scroll-behavior: smooth}
+h3{color:ghostwhite;margin-top: 35px;font-family: cursive;margin-bottom: 60px; font-size: 40px; display:inline-block;margin-left:410px;position:fixed}
+	#c:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 15px 15px 15px 15px}
+	
+	
+	
+	#k{background-color: #1bead9;width: 970px;height: 200px;float: left; margin-top: 5px;margin-left: 5px;border-radius: 4px 4px 4px 4px	}
+	
+	
+	
+	#m{background-color: black ;width: 940px;height: 105px;;border-radius: 6px 6px 6px 6px;display: inline-block;margin-right: 20px;color:#1bead9;margin-left: 15px;margin-top: 10px}
+	#m:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px;background-color: white;}
+
+	
+	#n{background-color:  black;width: 940px;height: 105px;border-radius: 6px 6px 6px 6px;display: inline-block;margin-right: 20px;color:#1bead9;margin-left: 15px;margin-top: 10px}
+	#n:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px;background-color: white}
+	
+	
+	/* içerik divi*/
+	#la{width: 185px;height:90px; border-radius:6px 6px 6px 6px}
+	
+	#hakimiyet{width: 185px;height:90px ;border-radius:6px 6px 6px 6px }
+	#passat{font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px;color: #49b8ef;;margin-left: 220px;;margin-top: 40px;position: absolute}
+	#passat:hover{color: black}
+	#melles{font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px;color: #49b8ef;margin-top:2px;margin-left: 220px;margin-top: 40px;position: absolute;}
+	#melles:hover{color: black}
+	
+	
+	
+	
+	
+	#sozlesme{margin-top:350px;margin-left: 30px;}
+	#sozlesmeiki{margin-top:400px;position: absolute;margin-left: -15px;}
+	#sozl{color: #1bead9;font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px;margin-left: 55px;margin-top: -21px}
+	#sozliki{color: #1bead9;font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px;margin-left: 55px;margin-top: 14px;position: absolute}
+	
+	#false{width: 50px;height:50px;margin-left: 850px;position:absolute;margin-top: 26px}
+	#falsi{width: 50px;height:50px;margin-left: 850px;position:absolute;margin-top: 26px}
+	
+	
+	#gonder{color: #1bead9;font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px;border-radius: 29px 29px 29px 29px;width: 140px;height: 70px;margin-left: 780px;position: absolute;margin-top: 110px}
+	#gonder:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 29px 29px 29px 29px}
+	
+	#asama{color: #1bead9;font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 45px; margin-top: 120px;margin-left: 50px }
+	
+	
+	/* header image fixed*/
+
+	
+	#o{display:inline-blockç;width:35px;height:35px; margin-left:355px;margin-top:60px;position: fixed}
+	#o:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 4px 4px 4px 4px}
+	
+	#p{display:inline;width:35px;height:35px; margin-left:555px;margin-top: 60px;position: fixed}
+	#p:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 6px 6px 6px 6px}
+	
+	#c{display:inline-block; width:55px;height:55px; margin-bottom:15px;margin-top: 110px;margin-left:447px;margin-right:-100px;position: fixed;padding: 3px 3px 3px 3px}
+	#tag{display: inline-block;width: 40px;height:40px; margin-right:90px;}
+	
+	
+	
+	
+body{background-color:black;width:980px;min-height: 600px;height:1040px;margin-left: auto;margin-right: auto;border: 2px groove #1bead9; border-radius: 6px 6px 6px 6px; box-shadow: 0px 0px 8px 9px #1bead9;	}
+	
+/*	a{ display: block; width: 120px;height:150px;color: chocolate;box-shadow: 3px 3px 3px blue;background-color: darkseagreen}

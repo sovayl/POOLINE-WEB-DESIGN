@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+#poo{color:ghostwhite;margin-top: 35px;font-family: cursive;margin-bottom: 60px; font-size: 40px; display:inline-block;margin-left:410px;position:fixed}
+	#c:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 15px 15px 15px 15px}
+	
+	
+	
+	#k{background-color: #49b8ef;width: 970px;height: 200px;float: left; margin-top: 5px;margin-left: 5px;border-radius: 4px 4px 4px 4px	}
+	
+	/* içerik divi*/
+	
+	h3.l{color: aqua;line-height: 1px}
+	#kay{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 15px 15px 15px 15px}
+	
+	
+	
+	span{margin-top: -20px;margin-left: 30px; color: #1bead9;font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px;position: absolute}
+	
+	#gonder{color: #1bead9;font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px;border-radius: 29px 29px 29px 29px;width: 140px;height: 70px;margin-left: 500px;position: absolute;margin-top: -190px}
+	#gonder:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 29px 29px 29px 29px}
+	
+	
+	/* header image fixed*/
+
+	
+	#o{display:inline-blockç;width:35px;height:35px; margin-left:355px;margin-top:60px;position: fixed}
+	#o:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 4px 4px 4px 4px}
+	
+	#p{display:inline;width:,35px;height:35px; margin-left:555px;margin-top: 60px;position: fixed}
+	#p:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 6px 6px 6px 6px}
+	
+	#c{display:inline-block; width:55px;height:55px; margin-bottom:15px;margin-top: 110px;margin-left:447px;margin-right:-100px;position: fixed;padding: 3px 3px 3px 3px}
+	
+	
+	
+	
+body{background-color:black;width:980px;min-height: 600px;height:1040px;margin-left: auto;margin-right: auto;border: 2px groove #1bead9; border-radius: 6px 6px 6px 6px; box-shadow: 0px 0px 8px 9px #1bead9;color: #1bead9;font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";font-size: 15px	}
+	
+/*	a{ display: block; width: 120px;height:150px;color: chocolate;box-shadow: 3px 3px 3px blue;background-color: darkseagreen}

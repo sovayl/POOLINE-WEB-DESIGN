@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+h3{color:ghostwhite;margin-top: 35px;font-family: cursive;margin-bottom: 60px; font-size: 40px; display:inline-block;margin-left:410px;position:fixed}
+	#c:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 15px 15px 15px 15px}
+	
+	
+	
+	#k{background-color: #1bead9;width: 970px;height: 200px;float: left; margin-top: 5px;margin-left: 5px;border-radius: 4px 4px 4px 4px	}
+	
+	#l{background-color:   #1bead9;width: 200px;height: 275px;;border-radius: 6px 6px 6px 6px;display: inline-block;margin-top: 100px;margin-left: 53px;margin-right: 20px ;color:#1bead9 }
+	#l:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	#m{background-color:  #1bead9 ;width: 200px;height: 275px;;border-radius: 6px 6px 6px 6px;display: inline-block;margin-right: 20px;color:#1bead9}
+	#m:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	#n{background-color:  #1bead9;width: 200px;height: 275px;border-radius: 6px 6px 6px 6px;display: inline-block;margin-right: 20px;color:#1bead9}
+	#n:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	#a{background-color:  	 #1bead9;width: 200px;height: 275px;;border-radius: 6px 6px 6px 6px;display: inline-block;color:#1bead9}
+	#a:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	
+	#tag{display: inline-block;width: 40px;height:40px; margin-right:300px;}
+	
+	/*2. raf*/
+	
+	
+	
+	
+	#q{background-color:   #1bead9;width: 200px;height: 275px;;border-radius: 6px 6px 6px 6px;display: inline-block;margin-top: 80px;margin-left: 53px;margin-right: 20px;color:#1bead9}
+	#q:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	#z{background-color:  #1bead9;width: 200px;height: 275px;;border-radius: 6px 6px 6px 6px;display: inline-block;margin-right: 20px;color:#1bead9}
+	#z:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	#x{background-color: #1bead9;width: 200px;height: 275px;border-radius: 6px 6px 6px 6px;display: inline-block;margin-right: 20px;color:#1bead9}
+	#x:hover{box-shadow:0px 0px 6px 9px #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	#v{background-color:  	 #1bead9;width: 200px;height: 275px;;border-radius: 6px 6px 6px 6px;display: inline-block;color:#1bead9}
+	#v:hover{box-shadow:0px 0px 6px 9px  #1bead9;border-radius: 15px 15px 15px 15px}
+	
+	
+	
+	/*kart iç tasarım*/
+	
+	
+	#lo{width: 210px;height:240px;}
+	
+	#la{width: 205px;height:220px}
+	
+	#hakimiyet{width: 205px;height:240px ;margin-top: -20px}
+	
+	#kayitsiz{width: 200px;height:240px;margin-top: -20px}
+	
+	
+	
+	#sartsiz{width: 197px;height:235px;margin-bottom: -2px}
+	
+	#milletimindir{width: 197px;height:240px;margin-bottom: -6px}
+	
+	#ATATURK {width: 195px;height:200px;margin-bottom: 33px}
+	
+	#aralikdostlarmeclisi {width: 200px;height:220px;margin-top: 13px}
+	
+	
+	#w{backround-color:yellow ; width:400px;height:500px;float: left}
+	
+	/* header image fixed*/
+	
+	#o{display:inline-blockç;width:35px;height:35px; margin-left:355px;margin-top:60px;position: fixed}
+	#o:hover{box-shadow:0px 0px 6px 9px #49b8ef;border-radius: 4px 4px 4px 4px}
+	
+	#p{display:inline;width:,35px;height:35px; margin-left:555px;margin-top: 60px;position: fixed}
+	#p:hover{box-shadow:0px 0px 6px 9px #49b8ef	;border-radius: 6px 6px 6px 6px}
+	
+	#c{display:inline-block; width:55px;height:55px; margin-bottom:15px;margin-top: 110px;margin-left:447px;margin-right:-100px;position: fixed;padding: 3px 3px 3px 3px}
+	
+body{background-color:black;width:980px;min-height: 600px;height:1100px;margin-left: auto;margin-right: auto;border: 2px groove #1bead9; border-radius: 6px 6px 6px 6px; box-shadow: 0px 0px 8px 9px #1bead9;	}
+	
+/*	a{ display: block; width: 120px;height:150px;color: chocolate;box-shadow: 3px 3px 3px blue;background-color: darkseagreen}
+	
+	
+	/* renk paleti
+	
+	#c40000
+	#ae0000      açık > kapalı
+	
+	#1bead9
+	#49b8ef
+	
+	*/
